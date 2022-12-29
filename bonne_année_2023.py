@@ -15,7 +15,7 @@ def load_lottieurl(url: str):
 
 st.write(emoji.emojize("""# Bonne et heureuse année 2023"""))
 st.header("A toute la famille PEM")
-st.write("by Tony Porsché")
+st.write("by Tony Porsché, Machine Learning Consultant")
 
 lottie_hello = load_lottieurl("https://assets10.lottiefiles.com/packages/lf20_cwJmjdcvDK.json")
 
